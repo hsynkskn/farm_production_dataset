@@ -1,0 +1,49 @@
+About Dataset
+This dataset contains historical records of farm production across provinces.
+
+It includes information about crop types, average farm prices (in dollars per tonne), average yields (in kilograms per hectare), total production (in metric tonnes), seeded areas (in both acres and hectares), and the total farm value (in dollars).
+Each entry is categorized by year (REF_DATE) and province (GEO), providing a comprehensive view of agricultural trends in Canada over time.
+Bu dosya hakkında
+
+Düzenleme Önerileri Bu dosya, Kanada eyaletleri genelinde toplanan tarihi çiftlik üretim verilerini içerir. Her kayıt, belirli bir yıl için bir eyalette yetiştirilen belirli bir ürünü temsil eder. Veriler şunları içerir:
+
+Kaydın yılı (REF_DATE).
+
+Ürünün üretildiği il (GEO).
+
+Üretilen ürün türü (ör. Arpa, Yulaf, Şeker Pancarı).
+
+Metrik ton başına dolar cinsinden ortalama çiftlik fiyatı.
+
+Hektar başına kilogram cinsinden ölçülen ortalama verim.
+
+Metrik ton cinsinden toplam üretim hacmi.
+
+Hem dönüm hem de hektar cinsinden ekili alan.
+
+Ürünün ekonomik değerini temsil eden dolar cinsinden toplam çiftlik değeri.
+
+Bu veri seti, Kanada eyaletleri genelindeki tarımsal üretkenlik ve fiyatlandırmanın ayrıntılı bir anlık görüntüsünü sunarak, zaman içinde çiftçilik eğilimlerinin tarihi analizini destekler.
+
+About this file
+
+Suggest Edits This file contains historical farm production data collected across Canadian provinces. Each record represents a specific crop grown in a province for a particular year. The data includes:
+
+Year (REF_DATE) of record.
+
+Province (GEO) where the crop was produced.
+
+Type of crop produced (e.g., Barley, Oats, Sugar Beets).
+
+Average farm price in dollars per metric tonne.
+
+Average yield measured in kilograms per hectare.
+
+Total production volume in metric tonnes.
+
+Seeded area in both acres and hectares.
+
+Total farm value in dollars, representing the crop’s economic value.
+
+This dataset offers a detailed snapshot of agricultural productivity and pricing across Canada's provinces, supporting historical analysis of farming trends over time.
+
